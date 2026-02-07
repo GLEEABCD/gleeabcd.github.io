@@ -1,0 +1,21 @@
+body {
+    background: black;
+    font-family: 'Courier New', Courier, monospace;
+    color: azure;
+    font-size: x-large;
+    text-align: center;
+}
+
+a {
+    color: wheat;
+    text-decoration: none;
+    background: blue;
+    border: solid 7px;
+    padding: 5px 20px;
+    border-radius: 10px;
+
+}
+
+.mern {
+    
+}
